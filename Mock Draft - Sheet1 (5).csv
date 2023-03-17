@@ -1,0 +1,262 @@
+Pick,Team,Player,Position
+1,Carolina Panthers,Bryce Young,QB
+2,Houston Texans,Will Anderson,EDGE
+3,Arizona Cardinals,C.J. Stroud,QB
+4,Indianapolis Colts,Jalen Carter,DT
+5,Seattle Seahawks,Anthony Richardson,QB
+6,Detroit Lions,Tyree Wilson,EDGE
+7,Las Vegas Raiders,Christian Gonzalez,CB
+8,Atlanta Falcons,Will Levis,QB
+9,Chicago Bears,Paris Johnson,OT
+10,Philadelphia Eagles,Peter Skoronski,OT
+11,Tennessee Titans,Devon Witherspoon,CB
+12,Houston Texans,Myles Murphy,EDGE
+13,New York Jets,Joey Porter,CB
+14,New England Patriots,Quentin Johnston,WR
+15,Green Bay Packers,Broderick Jones,OT
+16,Washington Commanders,Brian Branch,S
+17,Pittsburgh Steelers,Jaxon Smith-Njigba,WR
+18,Detroit Lions,Jordan Addison,WR
+19,Tampa Bay Buccaneers,Lukas Van Ness,EDGE
+20,Seattle Seahawks,Michael Mayer,TE
+21,Miami Dolphins,Forfeit,Forfeit
+22,Los Angeles Chargers,Bijan Robinson,RB
+23,Baltimore Ravens,Dalton Kincaid,TE
+24,Minnesota Vikings,Kelee Ringo,CB
+25,Jacksonville Jaguars,Deonte Banks,CB
+26,New York Giants,Bryan Bresee,DT
+27,Dallas Cowboys,O'Cyrus Torrence,G
+28,Buffalo Bills,Nolan Smith,EDGE
+29,Cincinnati Bengals,Calijah Kancey,DT
+30,New Orleans Saints,Cam Smith,CB
+31,Philadelphia Eagles,Drew Sanders,LB
+32,Kansas City Chiefs,Keion White,EDGE
+33,Pittsburgh Steelers,Jalin Hyatt,WR
+34,Houston Texans,Zay Flowers,WR
+35,Arizona Cardinals,Darnell Wright,OT
+36,Indianapolis Colts,Antonio Johnson,S
+37,Los Angeles Rams,Trenton Simpson,LB
+38,Seattle Seahawks,Anton Harrison,OT
+39,Las Vegas Raiders,Emmanuel Forbes,CB
+40,Carolina Panthers,Jahmyr Gibbs,RB
+41,New Orleans Saints,Darnell Washington,TE
+42,Tennessee Titans,Will McDonald,EDGE
+43,Cleveland Browns,Luke Musgrave,TE
+44,New York Jets,Mazi Smith,DT
+45,Atlanta Falcons,Dawand Jones,OT
+46,Green Bay Packers,John Michael Schmitz,C
+47,New England Patriots,Josh Downs,WR
+48,Washington Commanders,Jack Campbell,LB
+49,Detroit Lions,Tuli Tuipulotu,DT
+50,Pittsburgh Steelers,Isaiah Foskey,EDGE
+51,Tampa Bay Buccaneers,Clark Phillips,CB
+52,Miami Dolphins,,
+53,Seattle Seahawks,,
+54,Chicago Bears,,
+55,Los Angeles Chargers,,
+56,Detroit Lions,,
+57,Jacksonville Jaguars,,
+58,New York Giants,,
+59,Dallas Cowboys,,
+60,Buffalo Bills,,
+61,Cincinnati Bengals,,
+62,Chicago Bears,,
+63,Philadelphia Eagles,,
+64,Kansas City Chiefs,,
+65,Chicago Bears,,
+66,Houston Texans,,
+67,Arizona Cardinals,,
+68,Denver Broncos,,
+69,Denver Broncos,,
+70,Los Angeles Rams,,
+71,Las Vegas Raiders,,
+72,New Orleans Saints,,
+73,Tennessee Titans,,
+74,Houston Texans,,
+75,New York Jets,,
+76,Atlanta Falcons,,
+77,New England Patriots,,
+78,Los Angeles Rams,,
+79,Green Bay Packers,,
+80,Indianapolis Colts,,
+81,Pittsburgh Steelers,,
+82,Detroit Lions,,
+83,Tampa Bay Buccaneers,,
+84,Seattle Seahawks,,
+85,Miami Dolphins,,
+86,Los Angeles Chargers,,
+87,Baltimore Ravens,,
+88,Minnesota Vikings,,
+89,Jacksonville Jaguars,,
+90,New York Giants,,
+91,Dallas Cowboys,,
+92,Buffalo Bills,,
+93,Cincinnati Bengals,,
+94,Carolina Panthers,,
+95,Philadelphia Eagles,,
+96,Kansas City Chiefs,,
+97,Arizona Cardinals,,
+98,Washington Commanders,,
+99,Cleveland Browns,,
+100,San Francisco 49ers,,
+101,Las Vegas Raiders,,
+102,San Francisco 49ers,,
+103,San Francisco 49ers,,
+104,Chicago Bears,,
+105,Houston Texans,,
+106,Arizona Cardinals,,
+107,Indianapolis Colts,,
+108,New England Patriots,,
+109,Denver Broncos,,
+110,Las Vegas Raiders,,
+111,Atlanta Falcons,,
+112,Cleveland Browns,,
+113,New York Jets,,
+114,Atlanta Falcons,,
+115,Carolina Panthers,,
+116,New Orleans Saints,,
+117,Green Bay Packers,,
+118,New England Patriots,,
+119,Washington Commanders,,
+120,Minnesota Vikings,,
+121,Pittsburgh Steelers,,
+122,Jacksonville Jaguars,,
+123,Kansas City Chiefs,,
+124,Seattle Seahawks,,
+125,Baltimore Ravens,,
+126,Los Angeles Chargers,,
+127,Cleveland Browns,,
+128,Jacksonville Jaguars,,
+129,New York Giants,,
+130,Dallas Cowboys,,
+131,Buffalo Bills,,
+132,Cincinnati Bengals,,
+133,Carolina Panthers,,
+134,Chicago Bears,,
+135,Kansas City Chiefs,,
+136,New England Patriots,,
+137,Chicago Bears,,
+138,Houston Texans,Forfeit,Forfeit
+139,Buffalo Bills,,
+140,Indianapolis Colts,,
+141,Denver Broncos,,
+142,Cleveland Browns,,
+143,Las Vegas Raiders,,
+144,Cleveland Browns,,
+145,New York Jets,,
+146,Las Vegas Raiders,,
+147,Carolina Panthers,,
+148,New Orleans Saints,,
+149,Tennessee Titans,,
+150,Chicago Bears,,
+151,Green Bay Packers,,
+152,Washington Commanders,,
+153,Seattle Seahawks,,
+154,Detroit Lions,,
+155,Tampa Bay Buccaneers,,
+156,Seattle Seahawks,,
+157,San Francisco 49ers,,
+158,Los Angeles Chargers,,
+159,Baltimore Ravens,,
+160,Minnesota Vikings,,
+161,Atlanta Falcons,,
+162,New York Giants,,
+163,Dallas Cowboys,,
+164,Indianapolis Colts,,
+165,Cincinnati Bengals,,
+166,San Francisco 49ers,,
+167,New Orleans Saints,,
+168,Kansas City Chiefs,,
+169,Los Angeles Rams,,
+170,Arizona Cardinals,,
+171,Dallas Cowboys,,
+172,Green Bay Packers,,
+173,Los Angeles Rams,,
+174,New York Giants,,
+175,San Francisco 49ers,,
+176,Las Vegas Raiders,,
+177,Tampa Bay Buccaneers,,
+178,Indianapolis Colts,,
+179,Los Angeles Rams,,
+180,Kansas City Chiefs,,
+181,Houston Texans,,
+182,Arizona Cardinals,,
+183,Tampa Bay Buccaneers,,
+184,Los Angeles Rams,,
+185,Detroit Lions,,
+186,New England Patriots,,
+187,Jacksonville Jaguars,,
+188,Tennessee Titans,,
+189,New England Patriots,,
+190,Houston Texans,,
+191,Los Angeles Rams,,
+192,Cleveland Browns,,
+193,Los Angeles Rams,,
+194,New England Patriots,,
+195,Washington Commanders,,
+196,Detroit Lions,,
+197,Denver Broncos,,
+198,Tampa Bay Buccaneers,,
+199,Miami Dolphins,,
+200,Seattle Seahawks,,
+201,Baltimore Ravens,,
+202,Los Angeles Chargers,,
+203,Houston Texans,,
+204,Jacksonville Jaguars,,
+205,Houston Texans,,
+206,Las Vegas Raiders,,
+207,Buffalo Bills,,
+208,Cincinnati Bengals,,
+209,New York Jets,,
+210,Jacksonville Jaguars,,
+211,New York Giants,,
+212,New England Patriots,,
+213,Minnesota Vikings,,
+214,Dallas Cowboys,,
+215,Arizona Cardinals,,
+216,Las Vegas Raiders,,
+217,Washington Commanders,,
+218,San Francisco 49ers,,
+219,Kansas City Chiefs,,
+220,Chicago Bears,,
+221,Philadelphia Eagles,,
+222,Las Vegas Raiders,,
+223,Indianapolis Colts,,
+224,San Francisco 49ers,,
+225,Los Angeles Rams,,
+226,Atlanta Falcons,,
+227,Atlanta Falcons,,
+228,Jacksonville Jaguars,,
+229,New Orleans Saints,,
+230,Tennessee Titans,,
+231,Cleveland Browns,,
+232,Tampa Bay Buccaneers,,
+233,Las Vegas Raiders,,
+234,Green Bay Packers,,
+235,Washington Commanders,,
+236,Pittsburgh Steelers,,
+237,Green Bay Packers,,
+238,Indianapolis Colts,,
+239,Seattle Seahawks,,
+240,Miami Dolphins,,
+241,Los Angeles Chargers,,
+242,New York Giants,,
+243,Pittsburgh Steelers,,
+244,Green Bay Packers,,
+245,New York Giants,,
+246,Dallas Cowboys,,
+247,Atlanta Falcons,,
+248,Cincinnati Bengals,,
+249,San Francisco 49ers,,
+250,Philadelphia Eagles,,
+251,Kansas City Chiefs,,
+252,Kansas City Chiefs,,
+253,Los Angeles Rams,,
+254,Tampa Bay Buccaneers,,
+255,San Francisco 49ers,,
+256,New York Giants,,
+257,San Francisco 49ers,,
+258,Green Bay Packers,,
+259,New Orleans Saints,,
+260,Chicago Bears,,
+261,Houston Texans,,
