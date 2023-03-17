@@ -1,0 +1,262 @@
+Pick,Team,Player,Position
+1,Rookie,Bryce Young,QB
+2,Rookie,Will Anderson,EDGE
+3,Rookie,C.J. Stroud,QB
+4,Rookie,Jalen Carter,DT
+5,Rookie,Anthony Richardson,QB
+6,Rookie,Tyree Wilson,EDGE
+7,Rookie,Christian Gonzalez,CB
+8,Rookie,Will Levis,QB
+9,Rookie,Paris Johnson,OT
+10,Rookie,Peter Skoronski,OT
+11,Rookie,Devon Witherspoon,CB
+12,Rookie,Myles Murphy,EDGE
+13,Rookie,Joey Porter,CB
+14,Rookie,Quentin Johnston,WR
+15,Rookie,Broderick Jones,OT
+16,Rookie,Brian Branch,S
+17,Rookie,Jaxon Smith-Njigba,WR
+18,Rookie,Jordan Addison,WR
+19,Rookie,Lukas Van Ness,EDGE
+20,Rookie,Michael Mayer,TE
+21,Rookie,Forfeit,Forfeit
+22,Rookie,Bijan Robinson,RB
+23,Rookie,Dalton Kincaid,TE
+24,Rookie,Kelee Ringo,CB
+25,Rookie,Deonte Banks,CB
+26,Rookie,Bryan Bresee,DT
+27,Rookie,O'Cyrus Torrence,G
+28,Rookie,Nolan Smith,EDGE
+29,Rookie,Calijah Kancey,DT
+30,Rookie,Cam Smith,CB
+31,Rookie,Drew Sanders,LB
+32,Rookie,Keion White,EDGE
+33,Rookie,Jalin Hyatt,WR
+34,Rookie,Zay Flowers,WR
+35,Rookie,Darnell Wright,OT
+36,Rookie,Antonio Johnson,S
+37,Rookie,Trenton Simpson,LB
+38,Rookie,Anton Harrison,OT
+39,Rookie,Emmanuel Forbes,CB
+40,Rookie,Jahmyr Gibbs,RB
+41,Rookie,Darnell Washington,TE
+42,Rookie,Will McDonald,EDGE
+43,Rookie,Luke Musgrave,TE
+44,Rookie,Mazi Smith,DT
+45,Rookie,Dawand Jones,OT
+46,Rookie,John Michael Schmitz,C
+47,Rookie,Josh Downs,WR
+48,Rookie,Jack Campbell,LB
+49,Rookie,Tuli Tuipulotu,DT
+50,Rookie,Isaiah Foskey,EDGE
+51,Rookie,Clark Phillips,CB
+52,Rookie,,
+53,Rookie,,
+54,Rookie,,
+55,Rookie,,
+56,Rookie,,
+57,Rookie,,
+58,Rookie,,
+59,Rookie,,
+60,Rookie,,
+61,Rookie,,
+62,Rookie,,
+63,Rookie,,
+64,Rookie,,
+65,Rookie,,
+66,Rookie,,
+67,Rookie,,
+68,Rookie,,
+69,Rookie,,
+70,Rookie,,
+71,Rookie,,
+72,Rookie,,
+73,Rookie,,
+74,Rookie,,
+75,Rookie,,
+76,Rookie,,
+77,Rookie,,
+78,Rookie,,
+79,Rookie,,
+80,Rookie,,
+81,Rookie,,
+82,Rookie,,
+83,Rookie,,
+84,Rookie,,
+85,Rookie,,
+86,Rookie,,
+87,Rookie,,
+88,Rookie,,
+89,Rookie,,
+90,Rookie,,
+91,Rookie,,
+92,Rookie,,
+93,Rookie,,
+94,Rookie,,
+95,Rookie,,
+96,Rookie,,
+97,Rookie,,
+98,Rookie,,
+99,Rookie,,
+100,Rookie,,
+101,Rookie,,
+102,Rookie,,
+103,Rookie,,
+104,Rookie,,
+105,Rookie,,
+106,Rookie,,
+107,Rookie,,
+108,Rookie,,
+109,Rookie,,
+110,Rookie,,
+111,Rookie,,
+112,Rookie,,
+113,Rookie,,
+114,Rookie,,
+115,Rookie,,
+116,Rookie,,
+117,Rookie,,
+118,Rookie,,
+119,Rookie,,
+120,Rookie,,
+121,Rookie,,
+122,Rookie,,
+123,Rookie,,
+124,Rookie,,
+125,Rookie,,
+126,Rookie,,
+127,Rookie,,
+128,Rookie,,
+129,Rookie,,
+130,Rookie,,
+131,Rookie,,
+132,Rookie,,
+133,Rookie,,
+134,Rookie,,
+135,Rookie,,
+136,Rookie,,
+137,Rookie,Forfeit,Forfeit
+138,Rookie,,
+139,Rookie,,
+140,Rookie,,
+141,Rookie,,
+142,Rookie,,
+143,Rookie,,
+144,Rookie,,
+145,Rookie,,
+146,Rookie,,
+147,Rookie,,
+148,Rookie,,
+149,Rookie,,
+150,Rookie,,
+151,Rookie,,
+152,Rookie,,
+153,Rookie,,
+154,Rookie,,
+155,Rookie,,
+156,Rookie,,
+157,Rookie,,
+158,Rookie,,
+159,Rookie,,
+160,Rookie,,
+161,Rookie,,
+162,Rookie,,
+163,Rookie,,
+164,Rookie,,
+165,Rookie,,
+166,Rookie,,
+167,Rookie,,
+168,Rookie,,
+169,Rookie,,
+170,Rookie,,
+171,Rookie,,
+172,Rookie,,
+173,Rookie,,
+174,Rookie,,
+175,Rookie,,
+176,Rookie,,
+177,Rookie,,
+178,Rookie,,
+179,Rookie,,
+180,Rookie,,
+181,Rookie,,
+182,Rookie,,
+183,Rookie,,
+184,Rookie,,
+185,Rookie,,
+186,Rookie,,
+187,Rookie,,
+188,Rookie,,
+189,Rookie,,
+190,Rookie,,
+191,Rookie,,
+192,Rookie,,
+193,Rookie,,
+194,Rookie,,
+195,Rookie,,
+196,Rookie,,
+197,Rookie,,
+198,Rookie,,
+199,Rookie,,
+200,Rookie,,
+201,Rookie,,
+202,Rookie,,
+203,Rookie,,
+204,Rookie,,
+205,Rookie,,
+206,Rookie,,
+207,Rookie,,
+208,Rookie,,
+209,Rookie,,
+210,Rookie,,
+211,Rookie,,
+212,Rookie,,
+213,Rookie,,
+214,Rookie,,
+215,Rookie,,
+216,Rookie,,
+217,Rookie,,
+218,Rookie,,
+219,Rookie,,
+220,Rookie,,
+221,Rookie,,
+222,Rookie,,
+223,Rookie,,
+224,Rookie,,
+225,Rookie,,
+226,Rookie,,
+227,Rookie,,
+228,Rookie,,
+229,Rookie,,
+230,Rookie,,
+231,Rookie,,
+232,Rookie,,
+233,Rookie,,
+234,Rookie,,
+235,Rookie,,
+236,Rookie,,
+237,Rookie,,
+238,Rookie,,
+239,Rookie,,
+240,Rookie,,
+241,Rookie,,
+242,Rookie,,
+243,Rookie,,
+244,Rookie,,
+245,Rookie,,
+246,Rookie,,
+247,Rookie,,
+248,Rookie,,
+249,Rookie,,
+250,Rookie,,
+251,Rookie,,
+252,Rookie,,
+253,Rookie,,
+254,Rookie,,
+255,Rookie,,
+256,Rookie,,
+257,Rookie,,
+258,Rookie,,
+259,Rookie,,
+260,Rookie,,
+261,Rookie,,
